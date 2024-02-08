@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhijit</h1>
 <h3 align="center">A Computer Science Student from India</h3>
 
+- 🔭 I’m currently working on **self development program**
+
 - 🌱 I’m currently learning **Javascript**
+
+- 📫 How to reach me **abhijitsalunkhe18269@gmail.com**
+
+- ⚡ Fun fact **I think i am a programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
