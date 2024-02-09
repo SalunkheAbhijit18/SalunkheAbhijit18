@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Abhijit</h1>
+<h1 align="center">Hello 👋, I'm Abhijit</h1>
 <h3 align="center">A Computer Science Student from India</h3>
 
-- 🔭 I’m currently working on **self development program**
+- 🔭 I’m currently working on **Self Development Program**
 
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **abhijitsalunkhe18269@gmail.com**
 
-- ⚡ Fun fact **I think i am a programmer**
+- ⚡ Fun fact **Every Pro was once a Noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/salunkheabhi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salunkheabhi18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
