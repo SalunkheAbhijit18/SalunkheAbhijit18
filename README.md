@@ -16,3 +16,5 @@
 [![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalunkheAbhijit18)](https://github.com/SalunkheAbhijit18/github-readme-stats)
 
 ![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalunkheAbhijit18&show_icons=true&theme=transparent)
+
+![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalunkheAbhijit18&show_icons=true&theme=radical)
