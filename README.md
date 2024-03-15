@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **abhijitsalunkhe18269@gmail.com**
-
 - ⚡ Fun fact **Every Pro was once a Noob**
 
 
