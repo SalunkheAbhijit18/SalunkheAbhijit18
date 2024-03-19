@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Self Development Program**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Everything**
 
 - ⚡ Fun fact **Every Pro was once a Noob**
 
