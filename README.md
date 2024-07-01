@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Abhijit</h1><h3 align="center">A Computer Science Student from India</h3>
 
-- 🔭 I’m currently working on **Self Development Program**
+- 🔭 I’m currently working on **SQL Projects**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **SQL**
 
 - ⚡ Fun fact **Every Pro was once a Noob**
 
