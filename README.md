@@ -24,6 +24,7 @@
     <th>Languages</th>
     <th>Tools</th>
     <th>Frameworks & Libraries</th>
+    <th>Databases</th>
   </tr>
   <tr>
     <td>
@@ -54,6 +55,19 @@
       <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" alt="excel" width="40" height="40"/>
       </a>
+      <!-- Tableau Icon -->
+      <a href="https://www.w3schools.com/tableau/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/visualstudio/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/python/python_jupyter.asp" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+      </a>
     </td>
     <td>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -73,6 +87,11 @@
       </a>
       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
       </a>
     </td>
   </tr>
