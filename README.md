@@ -57,7 +57,7 @@
       </a>
       <!-- Tableau Icon -->
       <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tableau_Logo.svg/1024px-Tableau_Logo.svg.png" alt="tableau" width="40" height="40"/>
       </a>
       <a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
